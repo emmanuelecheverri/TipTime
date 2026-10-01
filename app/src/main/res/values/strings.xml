@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TipTime</string>
+
+    <string name="title_tip_calculator">Calculadora de propinas</string>
+
+    <string name="bill_amount">Valor de la cuenta</string>
+
+    <string name="tip_percentage">Porcentaje de propina</string>
+
+    <string name="round_tip">Redondear propina</string>
+
+    <string name="calculate_tip">Calcular propina</string>
+
+    <string name="tip_result">Propina: %s</string>
+
+    <string name="student_name">Emmanuel Echeverri Martinez</string>
+
+</resources>
